@@ -4,8 +4,7 @@ The objective is to predict Uber fare prices using Machine Learning.
 
 The dataset has the following information:
 
-key - a unique identifier for each trip
-fare_amount - the cost of each trip in USD
+key - a unique identifier for each trip                                                                                                                                  fare_amount - the cost of each trip in USD
 pickup_datetime - date and time when the meter was engaged
 passenger_count - the number of passengers in the vehicle (driver entered value)
 pickup_longitude - the longitude where the meter was engaged
